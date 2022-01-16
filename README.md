@@ -32,13 +32,12 @@ Here are some ideas to get you started:
 
 ---
 
-<h4 align="left">Connect with me</h4>
+<h2 align="left">Contactame</h2>
 <p align="center">
 <a href="https://twitter.com/alfrejs_v7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alfrejs_v7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/carlos-jesus-4950b8173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carlos-jesus-4950b8173" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/PNaZFVtV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/PNaZFVtV" height="30" width="40" /></a>
 </p>
-
 ---
 
-- <h2>📄 Dedicatoria </h2> <h3 style="align-item: justify">Todo mi progreso y dedicación se lo dedico a mi madre, Rocio M. Jesús S., que me enseño a dar pelea a las batallas de la vida, a no rendirme ante nada, que podemos decaer pero al otro día levantarnos para seguir dando pelea a la vida y llegar a conseguir mis sueños, ella es mi Madre, la que desde el cielo me cuida, me guía y me ilumina.I MISS YOU MOM </h3>
+- <h2>📄 Dedicatoria </h2> <h3 style="align-item: justify">Todo mi progreso y dedicación se lo dedico a mi madre, Rocio M. Jesús S., que me enseño a dar pelea a las batallas de la vida, a no rendirme ante nada, que podemos decaer pero al otro día levantarnos para seguir dando pelea a la vida y llegar a conseguir mis sueños, ella es mi Madre, la que desde el cielo me cuida, me guía y me ilumina. I MISS YOU MOM <img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f493.png" width=20 height=20></h3>
