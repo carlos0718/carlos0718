@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 ![Alt text](banner.png)
 
 <h1 align="center">Hola 👋, soy Fullstack developer Jr.</h1>
-<h2 align="center"></h2>
 
 <h2>🔭 Sobre mi :</h2>  <h3 style="align-item: justify">Soy un joven apacionado por la tecnología, y de nuevos desafíos en la vida. Desde adolescente me interesó el mundo de la computación. Empecé trabajando como soporte técnico en distintas empresas como @Telefónica, @Aatos, @Atento y de manera freelance. En la facultad conocé el mundo de la programación, y desde ese momento decidé no salir de ese mundo tan imprisionante y complicado a la vez. Ahora soy junior developer, trabajando con las técnologías de #HTML, #CSS, #Javascript, #React, #Angular, #Asp.net Core, #SQL Server. Pero eso no queda ahí, ahora me estoy capacitando en Node JS para entrar al mundo del backend</h3>
 
@@ -32,9 +31,9 @@ Here are some ideas to get you started:
 
 <h2 align="left">🔭 Contactame</h2>
 <p align="center" style="display:flex; justify-content:space-around">
-<a href="https://twitter.com/alfrejs_v7" target="blank" style="margin-rigth:40px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alfrejs_v7" height="50" width="50" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/carlos-jesus-4950b8173" style="margin-rigth:40px" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carlos-jesus-4950b8173" height="50" width="50" /></a>
-<a href="https://discord.gg/https://discord.gg/PNaZFVtV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/PNaZFVtV" height="50" width="50" /></a>
+<a href="https://twitter.com/alfrejs_v7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alfrejs_v7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/carlos-jesus-4950b8173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carlos-jesus-4950b8173" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/PNaZFVtV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/PNaZFVtV" height="30" width="40" /></a>
 </p>
 
 ---
