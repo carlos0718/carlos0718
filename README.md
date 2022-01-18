@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hola 👋, soy Fullstack developer Jr.</h1>
 
-<h2>🔭 Sobre mi :</h2>  <h3 style="align-item: justify">Soy un joven apacionado por la tecnología, y de nuevos desafíos en la vida. Desde adolescente me interesó el mundo de la computación. Empecé trabajando como soporte técnico en distintas empresas como #Telefónica, #Megatech, #Atos, #Atento y de manera freelance. En la facultad conocé el mundo de la programación, y desde ese momento decidé no salir de ese mundo tan imprisionante y complicado a la vez. Ahora soy junior developer, trabajando con las técnologías de #HTML, #CSS, #Javascript, #React, #Angular, #Asp.net Core, #SQL Server. Pero eso no queda ahí, ahora me estoy capacitando en Node JS para entrar al mundo del backend</h3>
+<h2>🔭 Sobre mi :</h2>  <h3 style="align-item: justify">Soy un joven apacionado por la tecnología, y de nuevos desafíos en la vida. Desde adolescente me interesó el mundo de la computación. Empecé trabajando como soporte técnico en distintas empresas como #Telefónica, #Megatech, #Atos, #Atento y de manera freelance. 
+ 
+  En la facultad conocé el mundo de la programación, y desde ese momento decidé no salir de ese mundo tan imprisionante y complicado a la vez. Ahora soy junior developer, trabajando con las técnologías de #HTML, #CSS, #Javascript, #React, #Angular, #Asp.net Core, #SQL Server. Pero eso no queda ahí, ahora me estoy capacitando en Node JS para entrar al mundo del backend</h3>
 
 ---
 
