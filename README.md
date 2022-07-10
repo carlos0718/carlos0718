@@ -41,3 +41,4 @@ Here are some ideas to get you started:
 ---
 
 <h2>🔭 Dedicatoria </h2> <h3 style="align-item: justify">Todo mi progreso y dedicación se lo dedico a mi madre, Rocio M. Jesús S., que me enseño a dar pelea a las batallas de la vida, a no rendirme ante nada, que podemos decaer pero al otro día levantarnos para seguir dando pelea a la vida y llegar a conseguir mis sueños, ella es mi Madre, la que desde el cielo me cuida, me guía y me ilumina. I MISS YOU MOM <img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f493.png" width=20 height=20></h3>
+![Alt text](github-contribution-grid-snake.svg)
