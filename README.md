@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Alt text](banner.png)
 
 <h1 align="center">Hola 👋, soy Fullstack developer </h1>
 
