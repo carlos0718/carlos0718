@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <h2>🧑‍🏫 Sobre mi :</h2>  <h3 style="align-item: justify">Soy un joven apasionado por la tecnología, y de nuevos desafíos en la vida. Desde adolescente me interesó el mundo de la computación. Empecé trabajando como soporte técnico en distintas empresas como #Telefónica, #Megatech, #Atos, #Atento y de manera freelance.
   
-En la facultad conocí el mundo de la programación, y desde ese momento decidí no salir de ese mundo tan apasionante y complicado a la vez. Ahora full stack developer con 2 años de experiencia, trabajando con las tecnologías de #HTML, #CSS, #Javascript, #React, #Angular, #Asp.net Core, #SQL Server. Pero eso no queda ahí, día a día me capacito para ser mejor y para conocer nuevas tecnologías.
+En la facultad conocí el mundo de la programación, y desde ese momento decidí no salir de ese mundo tan apasionante y complicado a la vez. Ahora full stack developer con +3 años de experiencia, trabajando con las tecnologías de #HTML, #CSS, #Javascript, #React, #Next, #Angular, #Asp.net Core, #SQL Server, Docker, GCP, AWS, GIT. Pero eso no queda ahí, día a día me capacito para ser mejor y para conocer nuevas tecnologías.
 </h3>
 
 ---
